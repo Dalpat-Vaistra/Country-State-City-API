@@ -1,0 +1,7 @@
+/node_modules
+dist/
+cityList/
+.env
+/src/countryList.ts
+/src/stateList.ts
+
